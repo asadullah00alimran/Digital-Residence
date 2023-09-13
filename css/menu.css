@@ -69,7 +69,7 @@ header.fullwidth .container {
 }
 .left-side {
     float: left;
-    width: 820px;
+    width: 950px;
     display: inline-block;
 }
 .right-side {
@@ -1339,9 +1339,9 @@ em.mm-counter+a.mm-fullsubopen+span {
     bottom: -10px;
     outline: none;
 }
-transform: rotate(-90deg);
+/* transform: rotate(-90deg);
 
-}
+} */
 /* Animation */
 .hamburger--collapse .hamburger-inner {
     top: auto;

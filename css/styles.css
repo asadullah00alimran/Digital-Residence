@@ -18589,7 +18589,7 @@ a.button {
 
 .dashboard-bd.hd-white .left-side {
   float: left;
-  width: 820px;
+  /* width: 75%; */
   display: inline-block;
   margin-left: 0px;
 }
