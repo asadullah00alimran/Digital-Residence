@@ -140,6 +140,18 @@ h5 {
   color: #444;
 }
 
+
+/* CUSTOM CSS */
+.font-40{
+  font-size: 50px;
+}
+
+
+
+
+
+
+
 .top-headings-section {
   padding-bottom: 2rem;
 }
@@ -5157,10 +5169,10 @@ element.style {
   width: 140px;
 }
 
-.homepage-2 .info-help.h18 {
+/* .homepage-2 .info-help.h18 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url(../images/bg/info-service3.jpg) no-repeat scroll center center;
   background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url(../images/bg/info-service3.jpg) no-repeat scroll center center;
-}
+} */
 
 .homepage-2 .team .team-social li a.facebook,
 .homepage-2 .team .team-social li a.twitter,
